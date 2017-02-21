@@ -1,9 +1,10 @@
-1D Arrays (Javascript) 
+# 1D Arrays (Javascript) 
+ 
+## Instructions
+1) Follow along with the live-coding by creating the functions in the `app.js` file.
 
-Follow along with the live-coding by creating the functions in the 'app.js' file.
+2) Run your program with the command:
+`node app.js`
 
-Run your program with the command:
-
-'node app.js'
-
-As a supplement to the live-coding, you will complete all the questions in the '1D-arrays.txt' file.
+## Before next class
+As a supplement to the live-coding, complete all the questions in the '1D-arrays.txt' file. This file will be checked at the beginning of the next class.
