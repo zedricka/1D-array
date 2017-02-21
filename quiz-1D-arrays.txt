@@ -20,7 +20,8 @@ What is printed as a result of executing the code segment?
 
 3. What array method supplements a for loop?
 
-**Answer** forEach()
+**Answer** 
+forEach()
 
 4. Consider the following code segment.
 
