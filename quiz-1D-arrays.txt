@@ -6,7 +6,7 @@ var array1 = ["H", "a", "p", "p", "y"];
 
 var array2 = [true, 0,  , 4, "who", "is", ];
 
-3. What method did we use to add 5 to each value in an array?
+3. What array method supplements a for loop?
 
 4. What does this print?
 
