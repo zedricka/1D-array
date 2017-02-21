@@ -2,13 +2,17 @@
 
 var array1 = ["H", "a", "p", "p", "y"];
 
-2. What is the length of the following array?
+2. Consider the following code segment.
 
 var array2 = [true, 0,  , 4, "who", "is", ];
 
+console.log(array2.length);
+
+What is printed as a result of executing the code segment?
+
 3. What array method supplements a for loop?
 
-4. What does this print?
+4. Consider the following code segment.
 
 var array3 = [4, 2, 1, 4, 5, 6];
 
@@ -20,5 +24,7 @@ array3.sort();
 
 console.log(array3);
 console.log(array3.length);
+
+What is printed as a result of executing the code segment?
 
 5. What is the index that contains the value 0 in the previous array?
