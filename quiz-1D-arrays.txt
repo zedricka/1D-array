@@ -10,7 +10,7 @@ console.log(array2.length);
 
 What is printed as a result of executing the code segment?
 
-3. What array method supplements a for loop?
+3. What array method iterates over a list of items?
 
 4. Consider the following code segment.
 
@@ -27,4 +27,4 @@ console.log(array3.length);
 
 What is printed as a result of executing the code segment?
 
-5. What is the index that contains the value 0 in the previous array?
+Extra Credit [1 pts] What is the index that contains the value 0 in the previous array?
