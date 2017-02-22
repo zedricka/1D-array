@@ -18,7 +18,7 @@ What is printed as a result of executing the code segment?
 **Answer**
 6
 
-3. What array method supplements a for loop?
+3. What array method iterates over a list of items?
 
 **Answer** 
 forEach()
@@ -42,7 +42,7 @@ What is printed as a result of executing the code segment?
 [1, 2, 4, 4]
 4
 
-5. What is the index that contains the value 0 in the previous array?
+Extra Credit [1 pts] What is the index that contains the value 0 in the previous array?
 
 **Answer**
 Does not exist
