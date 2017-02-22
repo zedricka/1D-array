@@ -2,6 +2,11 @@
 
 var array1 = ["H", "a", "p", "p", "y"];
 
+**Answer**
+var word1 = array1[0] + array1[1] + array1[2] + array1[3] + array1[4];
+
+console.log(word1);
+
 2. Consider the following code segment.
 
 var array2 = [true, 0,  , 4, "who", "is", ];
@@ -10,7 +15,13 @@ console.log(array2.length);
 
 What is printed as a result of executing the code segment?
 
+**Answer**
+6
+
 3. What array method iterates over a list of items?
+
+**Answer** 
+forEach()
 
 4. Consider the following code segment.
 
@@ -27,4 +38,11 @@ console.log(array3.length);
 
 What is printed as a result of executing the code segment?
 
+**Answer** 
+[1, 2, 4, 4]
+4
+
 Extra Credit [1 pts] What is the index that contains the value 0 in the previous array?
+
+**Answer**
+Does not exist
