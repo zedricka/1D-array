@@ -8,6 +8,8 @@ var cat = [black, white, brown, yellow, red];
 
 console.log(cat[3])
 
+The answer to this question is just to create an array with values in it.
+
 2) What is the output of the following code fragment?
 
 var cat = [2, 4, 6, 8];
@@ -15,6 +17,8 @@ var cat = [2, 4, 6, 8];
 console.log(cat[0] + " " + cat[1]);
 
 "2 4"
+
+The answer to this question is "2 4" because you are taking the values 0 "2" and values 1 "4"
 
 3) What is the output of the following code fragment?
 
@@ -27,6 +31,8 @@ console.log(y[0] + " " + y[1] + " " + y[5]);
 
 "34 88 undefined"
 
+The answer is "34 88 undefined" because you are taking the two values 34 and 88 and since array 5 is not defined, it comes up as undefined
+
 4) What is the output of the following code fragment?
 
 var zip = [7, 3, 4, 1, 9];
@@ -34,6 +40,8 @@ var zip = [7, 3, 4, 1, 9];
 console.log(zip[2+1]); 
 
 "1"
+
+The answer is "1" because it takes the value from array 3 after adding 2+1
 
 5) What is the output of the following code fragment?
 
@@ -44,3 +52,5 @@ console.log((x[0] + x[1]) + " " + x[5]);
 7 + 3 = 
 
 "10 undefined"
+
+The answer is "10 undefined"
