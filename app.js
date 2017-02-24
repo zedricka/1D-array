@@ -106,7 +106,7 @@ console.log(arrayMethodToLoop([5 + 1, 3]));
 */
 function moreArrayMethods(priorities){
 	//Print the parameter that is being passed through the function
-
+console.log(priorities);
 	//Use the method sort() to sort your priorities
 
 	//Use the method indexOf() to replace "Not Going to Class" to "Going to Class"
@@ -120,3 +120,4 @@ function moreArrayMethods(priorities){
 }
 
 console.log(moreArrayMethods(["Zero Play", "Sleeping", "HW", "Work", "School", "Planning For Future", "Not Going to Class"]));
+
